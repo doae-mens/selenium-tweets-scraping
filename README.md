@@ -13,6 +13,6 @@ pip install psutil
 
 2. Download your browser webdriver
 
-3.After installation of packages, modify the parameter of : 
+3. After installation of packages, modify the parameter of : 
 driver : with the path of the webdriver position
 username and  password : with a valid email address and password that will able to access and log into Twitter
