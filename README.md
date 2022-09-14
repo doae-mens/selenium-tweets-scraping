@@ -15,4 +15,4 @@ pip install psutil
 
 3. After installation of packages, modify the parameter of : 
 driver : with the path of the webdriver position
-email and  password : with a valid email address and password that will able to access and log into Twitter
+email : with a valid email address that will able to access and log into Twitter
